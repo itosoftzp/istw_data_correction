@@ -24,6 +24,7 @@ createdBy = 'Aris' and
 )
 AND NOT id='7a96828e-702d-45ee-8d16-68dfe4cad39c'
 
--- setelah itu majukan flow sesuai adjust by pada user approval selanjutnya 
+-- setelah itu majukan flow sesuai adjust by pada user approval selanjutnya  
+-- dan ubah counter adjust sesuai dengan jumlah user adjust
 
 
