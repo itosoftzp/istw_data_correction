@@ -77,6 +77,7 @@ select id,c_doc_id  from where c_doc_id in (
 'R-EXT-2504-000005'
 );
 
+
 1cb1278b-9da6-441a-a539-4ea609e5a93a	R-EXT-2504-000005
 223069be-4882-4758-a8ee-b4a7e92138db	R-EXT-2504-000006
 cc838fce-c612-461e-8693-8e16b16e9185	R-EXT-2504-000007
